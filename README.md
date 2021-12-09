@@ -1,5 +1,7 @@
 # Java Guidelines
 
+## [Schedule](https://github.com/excellalabs/java-project-guidelines/issues/1)
+
 ## What Is This?
 
 This guide is the recommendations of the Excella Java community on some key architectural decisions for Java
@@ -9,3 +11,10 @@ the rule. However if a project wants to deviate from these recommendations, they
 ## Why Does This Exist?
 
 It was noticed that while a lot of projects at Excella use Java, we sometimes employ different tools and methodologies to solve the same problems. This hurts us in a few ways: We do the same research over and over again on projects to choose technologies, developers need to learn different technologies to do the same thing differently on different projects (which results in less expertise and longer ramp up times), we are unable to train individuals in certain areas of Java unless we know what project they will be on, and it is harder to identify the right skillsets for projects forstaffing purposes. By alligning our approach we can cut down on some of this churn and difficulty.
+
+## How can I help?
+
+So glad you asked! You can participate in this effort by:
+- attending Java Capability Area Meetings ([schedule](https://github.com/excellalabs/java-project-guidelines/issues/1)) to discuss, debate, and/or learn
+- adding issues to this repo with topics you'd like to discuss in the future
+- transcribing outcomes from meetings into updates to the repo
